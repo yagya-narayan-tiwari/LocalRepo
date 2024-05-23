@@ -1,0 +1,1 @@
+this is the reeadme file of the gitinitdemo folder and noww we are oint to add this file inside the repo present in github
